@@ -11,5 +11,7 @@ The input for the code is a tab seperated file containing three columns: ID, All
 
 The dataset generated from stargazer should be reframed to the above mentioned input form and named as "STARGAZER"; cyrius should be named as "CYRIUS" and the output from xHLA should be named based on the HLA type in capital letter (Eg: HLA-A; HLA-B; HLA-C; HLA-DQB1; HLA-DPB1; HLA-DRB1)
 
+The input file and python code should be kept on the same folder before running the script
+
 Once the dataset is ready the code can be run using the following command:
 python indigen_af_calculator.py
